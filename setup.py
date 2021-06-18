@@ -58,7 +58,7 @@ setup(
     # what's a short description of the package?
     description="Installs the required packages for the ERS tutorials.",
     # what's a more detailed description?
-    long_description=",
+    long_description="",
     # who's the main author?
     author="Zach Berta-Thompson",
     # what's the main author's email?
