@@ -95,7 +95,7 @@ setup(
         'tqdm',
         'lmfit',
         'batman-package',
-        'dynesty']
+        'dynesty'],
     # what version of Python is required?
     python_requires=">=3.6",  # f-strings are introduced in 3.6!
     # requirements in `key` will install with `pip install exoplanet-chromatic[key]`
